@@ -9,6 +9,7 @@ This repository contains my implementation of the Qube Cinema task for frontend 
 - Vite
 - Styled Components
 - React Router Dom
+- Jest & RTL
 
 ## Features Implemented
 - List of collections in a table
@@ -24,6 +25,7 @@ This repository contains my implementation of the Qube Cinema task for frontend 
 - Breadcrumbs created using array, so it is scalable
 - Added necessary tabIndex to make it more accessible.
 - You can control the whole webisite using keyboard (Search history alone excluded intentionally)
+- Added Sample Unit Test cases including Mocking API, Context Provider etc.
 
 ## Installation & Setup
 - Clone the repository
